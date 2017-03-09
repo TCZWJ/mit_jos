@@ -1,0 +1,3 @@
+solved the questions:
+1. the make && make install  may be "sudo make && sudo make install"
+2. "flex:command not found" and "bison:command not found" : install it,sudo apt-get install flex && sudo apt-get install bison
