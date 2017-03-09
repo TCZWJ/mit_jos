@@ -1,0 +1,4 @@
+my test os is :Ubuntu 16.04.1 LTS
+
+1. read : https://pdos.csail.mit.edu/6.828/2016/homework/xv6-boot.html, to install qemu emulator in "the tools page" link
+2. in "the tools page" :https://pdos.csail.mit.edu/6.828/2016/tools.html, because my test environment is physical machine,Thinkpad-t460p, i just need to install qemu.
